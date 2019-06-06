@@ -19,7 +19,7 @@ The module is a live stream. These are still shots, obviously.
 ## Config.js entry and options
 
     {
-    disabled: f,
+    disabled: false,
     module: 'MMM-EARTH-Live',
     position: 'bottom right',
     config: {
