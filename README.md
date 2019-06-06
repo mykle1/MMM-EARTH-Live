@@ -31,3 +31,19 @@ The module is a live stream. These are still shots, obviously.
     }
 },
 
+### Electron may hinder the use of autoplay. Known issue.
+
+#### This will fix it
+
+Edit MagicMirror/js/electron.js
+
+Add the line shown below
+
+```
+let mainWindow;
+
+function createWindow() {
+    app.commandLine.appendSwitch('autoplay-policy', 'no-user-gesture-required');  //< -------- added
+```
+    
+Save and restart MagicMirror
