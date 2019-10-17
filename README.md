@@ -20,7 +20,7 @@ The module is a live stream. These are still shots, obviously.
 
     {
     disabled: false,
-    module: 'MMM-EARTH-Live',
+    module: 'MMM-ISS-Live',
     position: 'bottom right',
     config: {
         height:"270px",
