@@ -14,7 +14,7 @@ The module is a live stream. These are still shots, obviously.
 
 ## Installation
 
-* `git clone https://github.com/mykle1/MMM-ISS-Live` into the `~/MagicMirror/modules` directory.
+* `git clone https://github.com/mykle1/MMM-EARTH-Live` into the `~/MagicMirror/modules` directory.
 
 ## Config.js entry and options
 
