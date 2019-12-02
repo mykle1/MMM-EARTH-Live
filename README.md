@@ -7,6 +7,10 @@ every 90 minutes, it experiences a sunrise or a sunset about every 45 minutes. W
 darkness, external camera video may appear black, but can sometimes provide spectacular views of lightning
 or city lights below.
 
+## NASA announcement
+
+Currently, a continuous loop of previously recorded HDEV video is displayed in the window below. After HDEV stopped sending any data on July 18, 2019, it was declared, on August 22, 2019, to have reached its end of life. Future methods for showing live steaming video of the Earth from the ISS are being assessed. Thank You to all who shared in experiencing and using the HDEV views of Earth from the ISS to make HDEV so much more than a Technology Demonstration Payload!
+
 ## Examples
 The module is a live stream. These are still shots, obviously.
 
